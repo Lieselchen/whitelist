@@ -1,0 +1,12 @@
+# Amazon Alexa and Amazon Shopping app
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+
+# Netflix - Domains needed for netlix to work correctly
+api-global.netflix.com
+appboot.netflix.com
+secure.netflix.com
+
+# Github
+github.com
+github.io
