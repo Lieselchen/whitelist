@@ -1,12 +1,63 @@
-# Amazon Alexa and Amazon Shopping app
+# Amazon, Amazon Alexa and Amazon Shopping app
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+s3.amazonaws.com 
+
+# Apple
+appleid.apple.com
+
+# Cloudflare
+cdn.cloudflare.net
+cdnjs.cloudflare.com
+
+# Dropbox
+dl.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+
+# Github
+github.com
+github.io
+
+# Google and Google Services
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+googleapis.com
+
+# Google Play Store
+android.clients.google.com
+
+# Microsoft Office
+office.com
+office.net
+office365.com
+login.microsoftonline.com
+microsoftonline.com
+nexusrules.officeapps.live.com
+officeclient.microsoft.com
+sharepoint.com
+outlook.office365.com
+onedrive.live.com
+1drv.com
+
+# Microsoft Windows Internet Check
+dns.msftncsi.com
+msftncsi.com
+www.msftconnecttest.com
+www.msftncsi.com
 
 # Netflix - Domains needed for netlix to work correctly
 api-global.netflix.com
 appboot.netflix.com
 secure.netflix.com
 
-# Github
-github.com
-github.io
+# Youtube
+s.youtube.com
+s2.youtube.com
+youtube-nocookie.com
+
